@@ -1,6 +1,6 @@
 
 
-I'm Akshay Chopade! A learning Web Developer, having immense interest in Frontend developing, with pretty good hands on in Python!
+I'm Akshay Chopade! A learning Web Developer, having immense interest in Frontend development, with pretty good hands on in Python!
 
 - 🔭 I’m currently working on <b>Automated Society Security System</b>.
 - 🌱 I’m currently learning <b>JS</b> and <b>Kotlin</b>.
