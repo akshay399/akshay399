@@ -2,9 +2,9 @@
 
 I'm Akshay Chopade! A learning Web Developer, having immense interest in Frontend development, with pretty good hands on in Python!
 
-- 🔭 I’m currently working on <b>Automated Society Security System</b>.
-- 🌱 I’m currently learning <b>JS</b> and <b>Kotlin</b>.
-- 🤔 I’m looking for help with <b>CP</b>.
+- 🔭 I’m currently working on <b>Farmer's Assistant</b>.
+- 🌱 I’m currently learning <b>React</b> and <b>OOP</b>.
+- 🤔 I’m looking for help with <b>DSA</b>.
 - 💬 Ask me about <b>Frontend</b>, <b>Python</b> and <b>Django</b>.
 - 📫 How to reach me: <a href="https://www.instagram.com/akshay.chopade2/">my instagram</a>
 - 😄 Pronouns: he/him
