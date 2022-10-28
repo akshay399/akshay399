@@ -3,7 +3,7 @@
 I'm Akshay Chopade! A learning Web Developer, having immense interest in Frontend development, with pretty good hands on in Java!
 
 - 🔭 I’m currently working on <b>Bus Ticket Reservation System</b>.
-- 🌱 I’m currently learning <b>Core & Advance Java</b>.
+- 🌱 I’m currently learning <b>Core & Advanced Java</b>.
 - 🤔 I’m looking for help with <b>DSA</b>.
 - 💬 Ask me about <b>SQL</b>, <b>Java</b> and <b>React</b>.
 - 📫 How to reach me: <a href="https://www.instagram.com/akshay.chopade2/">my instagram</a>
