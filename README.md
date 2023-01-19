@@ -4,7 +4,7 @@ I'm Akshay Chopade! A learning Web Developer, having immense interest in Fronten
 <br></br>
 [![An image of @akshay399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshay399)](https://holopin.io/@akshay399)
 <br></br>
-- 🔭 I’m currently working on <b>Bus Ticket Reservation System</b>.
+- 🔭 I’m currently working on <b>Bus Ticket Reservation System usign Java EE, Spring JPA</b>.
 - 🌱 I’m currently learning <b>Core & Advanced Java</b>.
 - 🤔 I’m looking for help with <b>DSA</b>.
 - 💬 Ask me about <b>Open source</b>, <b>SQL</b>, <b>Java</b> and <b>React</b>.
